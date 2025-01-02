@@ -10,12 +10,12 @@
         "form",
         "laravel admin"
     ],
-    "homepage": "https://github.com/jqhph/dcat-admin",
+    "homepage": "https://github.com/lly0414/dcat-admin",
     "license": "MIT",
     "authors": [
         {
-            "name": "jqh",
-            "email": "841324345@qq.com"
+            "name": "llys",
+            "email": "1027583915@qq.com"
         }
     ],
     "require": {
