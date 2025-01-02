@@ -1,6 +1,6 @@
 {
-    "name": "dcat-cl/laravel-admin",
-    "description": "dcat-cl admin",
+    "name": "dcat/xk-laravel-admin",
+    "description": "dcat-xk-admin",
     "type": "library",
     "keywords": [
         "dcat",
